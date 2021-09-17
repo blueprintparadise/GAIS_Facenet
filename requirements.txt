@@ -15,6 +15,5 @@ retina-face>=0.0.1
 uuid
 pylab-sdk
 seaborn
-pylab
 matplotlib
 albumentations
