@@ -13,7 +13,6 @@ lightgbm>=2.3.1
 dlib>=19.20.0
 retina-face>=0.0.1
 uuid
-pickle
 os
 seaborn
 pylab
