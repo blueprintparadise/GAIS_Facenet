@@ -7,7 +7,7 @@ import cv2
 import os
 
 # Print Debug Info
-Image_Directory = "D:\DeepFace\deepface\deepface\images"
+Image_Directory = r"./images"
 print('OpenCV Version:', cv2.__version__)
 print('Numpy Version:', np.__version__)
 print('OpenCV Video Capture Sample')
