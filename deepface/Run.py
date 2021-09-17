@@ -1,4 +1,4 @@
-import DeepFace
+from deepface import DeepFace
 import tensorflow as tf
 import cv2
 
