@@ -3,8 +3,8 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 import cv2
-# from numba import cuda
-from pylab import rcParams
+import matplotlib as mpl
+rcParams = mpl.rcParams
 from tqdm import tqdm
 import matplotlib.pyplot as plt
 from matplotlib import rc
@@ -13,7 +13,7 @@ import albumentations as A
 import random
 
 # CREATE CLASS-------------------------------------------------------------------------------------------------------------------------------
-image_directory = r'D:\DeepFace\deepface\deepface\images'
+image_directory = r'./images'
 
 register_matplotlib_converters()
 sns.set(style='whitegrid', palette='muted', font_scale=1.2)
