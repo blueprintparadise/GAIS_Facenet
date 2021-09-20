@@ -5,8 +5,8 @@ tqdm>=4.30.0
 Pillow>=5.2.0
 opencv-python==4.4.0.44
 opencv-contrib-python>=4.3.0.36
-tensorflow==2.0.0
-keras>=2.2.0
+tensorflow==2.5.0
+keras==2.4.3
 Flask>=1.1.2
 mtcnn>=0.1.0
 lightgbm>=2.3.1
